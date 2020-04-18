@@ -1,0 +1,48 @@
+.body {
+    background: #fefefe;
+}
+
+.mainHeader {
+    color: tomato;
+}
+
+.headerLink {
+    color: #fefefe;
+    background: blueviolet;
+}
+
+
+.bodyHeader {
+    background: hotpink;
+}
+
+.mainSection {
+    background-color: mintcream;
+}
+
+.underSection {
+background: bisque;
+}
+
+.h1 {
+color: cornflowerblue;
+}
+
+.h2 {
+background: burlywood;
+color: yellow;
+}
+
+.h3 {
+color: indigo;
+}
+
+.paragraph {
+background: lightgrey;
+color: darkblue;
+}
+
+.mainFooter {
+color: #fefefe;
+background: blueviolet;
+}
